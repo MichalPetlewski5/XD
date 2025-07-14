@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.catBackground{
+    background-image: url("frontend/src/assets/cot.jpg");
+      background-attachment: fixed;
+    background-size: cover;
+}
